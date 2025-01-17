@@ -9,5 +9,8 @@ package com.mycompany.oop;
  * @author Oliver Ibrahim
  */
 public interface Emp {
+
+
+
     
 }
